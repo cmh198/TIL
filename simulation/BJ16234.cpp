@@ -83,4 +83,4 @@ int main() {
 	}
 	cout << days; //결과
 }
-출처: https://tooo1.tistory.com/292 [개발자 퉁이리:티스토리]
+// https://tooo1.tistory.com/292 [개발자 퉁이리:티스토리]
